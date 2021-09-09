@@ -7,7 +7,7 @@ const CONFIG = {
     btnYes: 'tớ iu cậu nhiều nhiều',
     btnNo: 'hoi ai rảnh yêu má:))',
     question:'Cho tớ biết lý do vì sao lại yêu tớ đi:333',
-    btnReply: 'trả lời đi bbi<3',
+    btnReply: 'Gửi cho tớ<3',
     reply: 'Tại vì cậu siêu siêu đáng iu á:3333',
     mess: 'iu cậu moa moa<3',
     messDesc: 'Còn giờ thì ngại gì kh nhắn cho tớ nào<3333.',
